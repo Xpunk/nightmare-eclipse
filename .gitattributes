@@ -1,0 +1,10 @@
+MiniPlasma/packages/NtApiDotNet.1.1.33/lib/netstandard2.0/NtApiDotNet.xml filter=lfs diff=lfs merge=lfs -text
+MiniPlasma/packages/NtApiDotNet.1.1.33/lib/net461/NtApiDotNet.dll filter=lfs diff=lfs merge=lfs -text
+YellowKey/FsTx/95F62703B343F111A92A005056975458/FsTxLogs/FsTxLogContainer00000000000000000002 filter=lfs diff=lfs merge=lfs -text
+MiniPlasma/packages/NtApiDotNet.1.1.33/lib/netstandard2.0/NtApiDotNet.dll filter=lfs diff=lfs merge=lfs -text
+MiniPlasma/packages/NtApiDotNet.1.1.33/lib/net461/NtApiDotNet.xml filter=lfs diff=lfs merge=lfs -text
+YellowKey/FsTx/95F62703B343F111A92A005056975458/FsTxLogs/FsTxLogContainer00000000000000000001 filter=lfs diff=lfs merge=lfs -text
+BlueHammer/windefend_s.c filter=lfs diff=lfs merge=lfs -text
+BlueHammer/windefend_c.c filter=lfs diff=lfs merge=lfs -text
+MiniPlasma/packages/TaskScheduler.2.12.2/TaskScheduler.2.12.2.nupkg filter=lfs diff=lfs merge=lfs -text
+MiniPlasma/packages/NtApiDotNet.1.1.33/NtApiDotNet.1.1.33.nupkg filter=lfs diff=lfs merge=lfs -text
