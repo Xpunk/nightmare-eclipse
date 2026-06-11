@@ -1,3 +1,6 @@
 [submodule "MSNightmare/RoguePlanet"]
 	path = MSNightmare/RoguePlanet
 	url = https://github.com/MSNightmare/RoguePlanet
+[submodule "MSNightmare/GreatXML"]
+	path = MSNightmare/GreatXML
+	url = https://github.com/MSNightmare/GreatXML
